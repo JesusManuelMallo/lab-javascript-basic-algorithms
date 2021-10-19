@@ -1,11 +1,11 @@
-![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
+<div align="center"> <img src="https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png"/><img src="https://2.bp.blogspot.com/-GK0qpqNN1so/UYm_KzqlxjI/AAAAAAAAAyQ/bZ--pkLtWQQ/s1600/Sol+%C3%BAltimo.png" width="150px" height="150px"/>   </div>  
 
-# LAB | JS Basic Algorithms (
+# LAB | JS Basic Algorithms 
 
-<h2><b>I'm <a href="http://www.jesusmallo.eu" target="_blank">Jesus Mallo</a> and I'm redoing all Ironhack Labs again to reinforce my knowledge!</b></h2>
+<h2><b>I'm <a href="http://www.jesusmallo.eu" target="_blank">Jesus Mallo</a> and I'm redoing all Ironhack Labs again the next months to reinforce my knowledge!</b></h2>
 <br/>
 <br/>
-Lab day 1 week 1 instructions:
+<h3><b>Lab day 1 week 1 instructions:</b></h3>
 
 The goal of this exercise is to get you familiarized with the primitive data structures in JavaScript, which we just covered in the class. Feel free to reference lesson materials and don't limit yourself but be curious and use Google to explore multiple solutions.
 
